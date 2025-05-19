@@ -21,4 +21,4 @@ jobs: # 执行的工作
           pip install -r ./requirements.txt 
  
       - name: Run main.py
-        run: python main.py -u 18335526601 -p ljm18335526601 -l 12081 
+        run: python main.py -u 18865535100 -p ljm18335526601 -l 12081 
